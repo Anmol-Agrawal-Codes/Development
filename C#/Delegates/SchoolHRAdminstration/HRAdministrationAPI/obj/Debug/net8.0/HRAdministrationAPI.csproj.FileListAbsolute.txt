@@ -1,0 +1,11 @@
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\bin\Debug\net8.0\HRAdministrationAPI.deps.json
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\bin\Debug\net8.0\HRAdministrationAPI.dll
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\bin\Debug\net8.0\HRAdministrationAPI.pdb
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\obj\Debug\net8.0\HRAdministrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\obj\Debug\net8.0\HRAdministrationAPI.AssemblyInfoInputs.cache
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\obj\Debug\net8.0\HRAdministrationAPI.AssemblyInfo.cs
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\obj\Debug\net8.0\HRAdministrationAPI.csproj.CoreCompileInputs.cache
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\obj\Debug\net8.0\HRAdministrationAPI.dll
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\obj\Debug\net8.0\refint\HRAdministrationAPI.dll
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\obj\Debug\net8.0\HRAdministrationAPI.pdb
+D:\coding\C#\SchoolHRAdminstration\HRAdministrationAPI\obj\Debug\net8.0\ref\HRAdministrationAPI.dll

@@ -1,0 +1,14 @@
+D:\coding\C#\DeligateBasics\DeligateBasics\bin\Debug\net8.0\DelegateBasics.exe
+D:\coding\C#\DeligateBasics\DeligateBasics\bin\Debug\net8.0\DelegateBasics.deps.json
+D:\coding\C#\DeligateBasics\DeligateBasics\bin\Debug\net8.0\DelegateBasics.runtimeconfig.json
+D:\coding\C#\DeligateBasics\DeligateBasics\bin\Debug\net8.0\DelegateBasics.dll
+D:\coding\C#\DeligateBasics\DeligateBasics\bin\Debug\net8.0\DelegateBasics.pdb
+D:\coding\C#\DeligateBasics\DeligateBasics\obj\Debug\net8.0\DelegateBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\C#\DeligateBasics\DeligateBasics\obj\Debug\net8.0\DelegateBasics.AssemblyInfoInputs.cache
+D:\coding\C#\DeligateBasics\DeligateBasics\obj\Debug\net8.0\DelegateBasics.AssemblyInfo.cs
+D:\coding\C#\DeligateBasics\DeligateBasics\obj\Debug\net8.0\DelegateBasics.csproj.CoreCompileInputs.cache
+D:\coding\C#\DeligateBasics\DeligateBasics\obj\Debug\net8.0\DelegateBasics.dll
+D:\coding\C#\DeligateBasics\DeligateBasics\obj\Debug\net8.0\refint\DelegateBasics.dll
+D:\coding\C#\DeligateBasics\DeligateBasics\obj\Debug\net8.0\DelegateBasics.pdb
+D:\coding\C#\DeligateBasics\DeligateBasics\obj\Debug\net8.0\DelegateBasics.genruntimeconfig.cache
+D:\coding\C#\DeligateBasics\DeligateBasics\obj\Debug\net8.0\ref\DelegateBasics.dll

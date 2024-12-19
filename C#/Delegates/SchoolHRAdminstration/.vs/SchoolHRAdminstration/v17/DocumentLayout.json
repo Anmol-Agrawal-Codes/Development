@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\C#\\SchoolHRAdminstration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F513D6-30C4-4707-976F-D090259E817C}|SchoolHRAdminstration\\SchoolHRAdminstration.csproj|d:\\coding\\c#\\schoolhradminstration\\schoolhradminstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F513D6-30C4-4707-976F-D090259E817C}|SchoolHRAdminstration\\SchoolHRAdminstration.csproj|solutionrelative:schoolhradminstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D2D5B-8D0B-4786-A5DD-C2192E72FBC6}|HRAdministrationAPI\\HRAdministrationAPI.csproj|d:\\coding\\c#\\schoolhradminstration\\hradministrationapi\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3D2D5B-8D0B-4786-A5DD-C2192E72FBC6}|HRAdministrationAPI\\HRAdministrationAPI.csproj|solutionrelative:hradministrationapi\\employeebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D2D5B-8D0B-4786-A5DD-C2192E72FBC6}|HRAdministrationAPI\\HRAdministrationAPI.csproj|d:\\coding\\c#\\schoolhradminstration\\hradministrationapi\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3D2D5B-8D0B-4786-A5DD-C2192E72FBC6}|HRAdministrationAPI\\HRAdministrationAPI.csproj|solutionrelative:hradministrationapi\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3D2D5B-8D0B-4786-A5DD-C2192E72FBC6}|HRAdministrationAPI\\HRAdministrationAPI.csproj|d:\\coding\\c#\\schoolhradminstration\\hradministrationapi\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3D2D5B-8D0B-4786-A5DD-C2192E72FBC6}|HRAdministrationAPI\\HRAdministrationAPI.csproj|solutionrelative:hradministrationapi\\factorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FactoryPattern.cs",
+              "DocumentMoniker": "D:\\coding\\C#\\SchoolHRAdminstration\\HRAdministrationAPI\\FactoryPattern.cs",
+              "RelativeDocumentMoniker": "HRAdministrationAPI\\FactoryPattern.cs",
+              "ToolTip": "D:\\coding\\C#\\SchoolHRAdminstration\\HRAdministrationAPI\\FactoryPattern.cs",
+              "RelativeToolTip": "HRAdministrationAPI\\FactoryPattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:09:55.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeBase.cs",
+              "DocumentMoniker": "D:\\coding\\C#\\SchoolHRAdminstration\\HRAdministrationAPI\\EmployeeBase.cs",
+              "RelativeDocumentMoniker": "HRAdministrationAPI\\EmployeeBase.cs",
+              "ToolTip": "D:\\coding\\C#\\SchoolHRAdminstration\\HRAdministrationAPI\\EmployeeBase.cs",
+              "RelativeToolTip": "HRAdministrationAPI\\EmployeeBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:47:12.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\coding\\C#\\SchoolHRAdminstration\\HRAdministrationAPI\\IEmployee.cs",
+              "RelativeDocumentMoniker": "HRAdministrationAPI\\IEmployee.cs",
+              "ToolTip": "D:\\coding\\C#\\SchoolHRAdminstration\\HRAdministrationAPI\\IEmployee.cs",
+              "RelativeToolTip": "HRAdministrationAPI\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:45:39.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding\\C#\\SchoolHRAdminstration\\SchoolHRAdminstration\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolHRAdminstration\\Program.cs",
+              "ToolTip": "D:\\coding\\C#\\SchoolHRAdminstration\\SchoolHRAdminstration\\Program.cs",
+              "RelativeToolTip": "SchoolHRAdminstration\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwFIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T05:33:25.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
