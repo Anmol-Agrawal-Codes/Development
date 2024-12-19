@@ -1,6 +1,0 @@
-D:\coding\C#\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\FieldValidatorAPI.dll
-D:\coding\C#\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\FieldValidatorAPI.pdb
-D:\coding\C#\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\FieldValidatorAPI.csproj.AssemblyReference.cache
-D:\coding\C#\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\FieldValidatorAPI.csproj.CoreCompileInputs.cache
-D:\coding\C#\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\FieldValidatorAPI.dll
-D:\coding\C#\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\FieldValidatorAPI.pdb
